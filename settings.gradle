@@ -1,0 +1,2 @@
+rootProject.name = "SaveImageToExternalStorage"
+include ':app'
